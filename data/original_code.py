@@ -9,7 +9,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, classification_rep
 
 # Load dataset
 # Update the path if needed
-wine_data = pd.read_csv('winequality-red.csv')
+wine_data = pd.read_csv('D:\wine_quality_prediction\data\winequality.csv')
 
 print("First 5 rows:")
 print(wine_data.head())
