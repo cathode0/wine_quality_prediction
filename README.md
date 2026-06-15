@@ -45,6 +45,7 @@ wine_quality_prediction/
 │
 ├── main.py
 ├── config.py
+├── run_all_tests.py
 ├── requirements.txt
 ├── README.md
 │

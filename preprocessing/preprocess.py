@@ -1,5 +1,4 @@
 import numpy as np
-from config import RANDOM_STATE
 
 def create_target(df):
     """
